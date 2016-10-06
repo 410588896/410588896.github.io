@@ -24,7 +24,21 @@ layout: compress
                 {{ content }}
             </div>
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp" ><div class="ds-thread" data-thread-key={{ page.id }} data-title={{ page.title }} data-url="410588896.github.io/{{ page.url }}"></div></section><!-- /#disqus_thread -->{% endif %}
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp" ><div class="ds-share" data-thread-key={{ page.id }} data-title={{ page.title }} data-images="http://410588896.github.io/favicon.ico" data-content={{ page.content }} data-url="410588896.github.io/{{ page.url }}">
+    <div class="ds-share-inline">
+      <ul  class="ds-share-icons-16">
+      	
+      	<li data-toggle="ds-share-icons-more"><a class="ds-more" href="javascript:void(0);">分享到：</a></li>
+        <li><a class="ds-weibo" href="javascript:void(0);" data-service="weibo">微博</a></li>
+        <li><a class="ds-qzone" href="javascript:void(0);" data-service="qzone">QQ空间</a></li>
+        <li><a class="ds-qqt" href="javascript:void(0);" data-service="qqt">腾讯微博</a></li>
+        <li><a class="ds-wechat" href="javascript:void(0);" data-service="wechat">微信</a></li>
+      	
+      </ul>
+      <div class="ds-share-icons-more">
+      </div>
+    </div>
+ </div><div class="ds-thread" data-thread-key={{ page.id }} data-title={{ page.title }} data-url="410588896.github.io/{{ page.url }}"></div></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
