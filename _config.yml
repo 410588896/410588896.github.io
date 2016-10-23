@@ -1,7 +1,7 @@
 # Site
 title:              SupermanYC
-bio:                '不止是代码的搬运工.'
-description:        "SupermanYC是一个分享作者技术学习心得，经验交流的博客平台。"
+bio:                '不止是代码的搬运工'
+description:        "SupermanYC是一个分享技术学习心得，经验交流的博客平台。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
