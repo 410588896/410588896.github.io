@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 作者简介
+tags: [about, 作者简介]
+date: 2016-10-20
 comments: false
 ---
     
