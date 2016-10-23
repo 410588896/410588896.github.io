@@ -1,7 +1,7 @@
 # Site
 title:              SupermanYC
 bio:                '不止是代码的搬运工.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "SupermanYC是一个分享作者技术学习心得，经验交流的博客平台，会不定期更新一些作者学习工作中遇到的问题以及解决方法。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
