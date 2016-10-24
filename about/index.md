@@ -37,6 +37,6 @@ comments: false
 
 ![search](http://410588896.github.io/about/image/search.png){: .image-middle}
 
-<center><font size = 6 face = 黑体><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
+<center><font size = 6><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
 
 
