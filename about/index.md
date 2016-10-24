@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 作者简介
-tags: [about, 作者简介]
+title: 关于博客
+tags: [about, 作者，SupermanYC，博客]
 date: 2016-10-20
 comments: false
 ---
@@ -43,6 +43,6 @@ comments: false
 
 ---
 
-<center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
+<center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</center>
 
 
