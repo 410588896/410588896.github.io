@@ -5,10 +5,10 @@ tags: [about, 作者简介]
 date: 2016-10-20
 comments: false
 ---
-    
-<center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 是一个技术交流博客，作者会不定期更新作者在学习生活中遇到的难题以及解决方法.</center>
 
 ![coder](http://img1.mydrivers.com/img/20141117/77dc212580524c0e99297bcd3f5dab91.jpg){: .image-middle}
+
+<center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 是一个技术交流博客，作者会不定期更新作者在学习生活中遇到的难题以及解决方法.</center>
 
 ## 关于作者
 * 普通高校小硕一枚
@@ -33,5 +33,10 @@ comments: false
 * 经验分享(Projects)则会有一些技术知识的教程，比如作者最近将会陆续写一些Python的学习教程
 * 首页有作者的联系方式，欢迎交流
 * 每一篇文章下都有评论栏，欢迎大家批评指正
-* 按两`Ctrl`键或者点击页面左下角的查询图标![search](http://410588896.github.io/about/image/search.png)可以搜索历史文章，这里需要感谢网友李跃东`(http://www.codeboy.me/)`提供的技术支持
+* 按两`Ctrl`键或者点击页面左下角的查询图标可以搜索历史文章，这里需要感谢网友李跃东`(http://www.codeboy.me/)`提供的技术支持
+
+![search](http://410588896.github.io/about/image/search.png){: .image-middle}
+
+<center><font size = 6 face = 黑体><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
+
 
