@@ -6,6 +6,8 @@ date: 2016-10-20
 comments: false
 ---
 
+---
+
 ![coder](http://img1.mydrivers.com/img/20141117/77dc212580524c0e99297bcd3f5dab91.jpg){: .image-middle}
 
 <center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 是一个技术交流博客，作者会不定期更新作者在学习生活中遇到的难题以及解决方法.</center>
@@ -22,6 +24,8 @@ comments: false
 * 大学期间喜爱逛各种技术博客，尤其热爱陈皓的酷壳[coolshell.cn](http://coolshell.cn/)
 * 如果喜欢我的文章，可以打赏，丢硬币，丢香蕉给我
 
+---
+
 ## 关于SupermanYC
 
 ![cover](http://410588896.github.io/about/image/cover.png){: .image-middle}
@@ -37,6 +41,8 @@ comments: false
 
 ![search](http://410588896.github.io/about/image/search.png){: .image-middle}
 
-<center><font size = 6><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
+---
+
+<center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 欢迎大家常来光顾！</font></center>
 
 
