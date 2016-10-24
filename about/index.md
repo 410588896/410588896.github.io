@@ -24,7 +24,7 @@ comments: false
 
 ## 关于SupermanYC
 
-![cover](http://410588896.github.io/about/cover.png){: .image-middle}
+![cover](http://410588896.github.io/about/image/cover.png){: .image-middle}
 
 博客一共有三栏：
 
@@ -33,5 +33,5 @@ comments: false
 * 经验分享(Projects)则会有一些技术知识的教程，比如作者最近将会陆续写一些Python的学习教程
 * 首页有作者的联系方式，欢迎交流
 * 每一篇文章下都有评论栏，欢迎大家批评指正
-* 按两`Ctrl`键或者点击页面左下角的查询图标![search](http://410588896.github.io/about/search.png)可以搜索历史文章，这里需要感谢网友李跃东`(http://www.codeboy.me/)`提供的技术支持
+* 按两`Ctrl`键或者点击页面左下角的查询图标![search](http://410588896.github.io/about/image/search.png)可以搜索历史文章，这里需要感谢网友李跃东`(http://www.codeboy.me/)`提供的技术支持
 
