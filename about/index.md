@@ -8,7 +8,7 @@ comments: false
 
 ---
 
-![coder](http://img1.mydrivers.com/img/20141117/77dc212580524c0e99297bcd3f5dab91.jpg){: .image-middle}
+![coder](./image/index.png){: .image-middle}
 
 <center><a href="http://410588896.github.io/"><b>SupermanYC</b></a> 是一个技术交流博客，作者会不定期更新作者在学习生活中遇到的难题以及解决方法.</center>
 
