@@ -36,12 +36,12 @@ comments: true
 ### 2、 hello.c
 　　然后用你自己最喜欢的编辑器写一个hello.c 文件，如命令：vi hello.c 。使用下面的代码作为hello.c 的内容。
   
-  #incldue <stido.h>    
-  int main()    
-  {    
-    printf("Hello, Linux World!\n");    
-    return 0;    
-  }    
+    #incldue <stido.h>    
+    int main()    
+    {    
+        printf("Hello, Linux World!\n");    
+        return 0;    
+    }    
   
 　　完成后保存退出。
 
